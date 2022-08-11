@@ -2,4 +2,4 @@ classes= 5
 train  = /content/darknet/dataset/treinando-rede-yolo/train.txt
 valid  = /content/darknet/dataset/treinando-rede-yolo/validation
 names = /content/darknet/dataset/treinando-rede-yolo/classes.names
-backup = /content/darknet/dataset/treinando-rede-yolo/backup/
+backup = /content/drive/MyDrive/backup
